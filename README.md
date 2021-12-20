@@ -2,10 +2,10 @@
 A Solana Unity3d SDK 
 
 # Repo will be updated very soon, once we finish the testing.
-Full Solana RPC API Support
-Keypair Support
-Spl-token Support
-NFT Support
-Transactions Support
-Instructions Support
+- [x] Full Solana RPC API Support
+- [x] Keypair Support
+- [-] Spl-token Support
+- [x] NFT Support
+- [x] Transactions Support
+- [x] Instructions Support
 More Coming in the next few weeks.
