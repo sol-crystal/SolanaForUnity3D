@@ -7,8 +7,8 @@ A Solana Unity3d SDK
 - [x] Phantom , Solana-Keygen Compatible Wallet
 - [ ] Spl-token Support
 - [x] NFT Support
-- [x] Transactions Support
-- [x] Instructions Support
+- [ ] Transactions Support
+- [ ] Instructions Support
 
 # More Coming in the next few weeks.
 
