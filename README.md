@@ -12,7 +12,7 @@ A Solana Unity3d SDK
 
 # More Coming in the next few weeks.
 
-# Platform
+# Platforms
 - [X] Desktop (Mac OS X/WINDOWS/LINUX)
 - [X] IOS
 - [ ] Android (Not Yet Tested)
