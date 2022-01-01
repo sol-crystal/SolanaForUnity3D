@@ -17,9 +17,9 @@ A Solana Unity3d SDK
 - [X] IOS
 - [ ] Android (Not Yet Tested)
 
-Follow us [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40sol-crystal)](https://twitter.com/sol_crystal_io)
+Follow us on Twitter: [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/sol_crystal_io)
 
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/mnXrKea6TF)
+Join Us On Discord: [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/mnXrKea6TF)
 
 
 
