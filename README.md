@@ -2,7 +2,7 @@
 
 ![image description](Sol4Unity3D-SDK/solanaforunity.jpeg)
 
-SolanaForUnity Asset is required to run example code on this repository.
+**SolanaForUnity Asset is required to run examples code on this repository.**
 
    - *Android support*
    - *Win & Mac & Linux Standalone support*
