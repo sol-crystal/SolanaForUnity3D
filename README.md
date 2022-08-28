@@ -1,3 +1,4 @@
+# Update: 28/02/2022: The Sdk Is being Reviewd by the asset store, it will be available soon with a huge update.
 <h1 align="center"> Solana For Unity3D SDK https://assetstore.unity.com/packages/slug/212433 </h1>
 
 <h1 align="center"> Documentation: https://solanaforunity.solcry.io </h1>
